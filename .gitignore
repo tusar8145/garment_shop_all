@@ -21,7 +21,7 @@ dist/
 # Package files
 *.jar
 yarn.lock
-.env
+
 .env.development 
 # Maven
 target/
